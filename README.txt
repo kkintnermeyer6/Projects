@@ -1,0 +1,1 @@
+Parent directory containing various code pieces and reports for projects that I have found interesting, whether for school or for personal work.
